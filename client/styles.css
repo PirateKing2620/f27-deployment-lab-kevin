@@ -1,7 +1,33 @@
-h1 {
-    color: green;
+* {
+    background-color: rgb(255, 170, 170);
 }
 
-.moneyBag {
-    width: 100px;
+h1 {
+    font-size: 75px;
+    color: rgb(0, 115, 0);
+    text-align: center;
+}
+
+
+#moneyBag {
+    width: 175px;
+    height: 175px;
+    margin-left: 44%;
+}
+
+#eatChicken {
+    width: 500px;
+    height: 300px;
+    margin-left: 33.25%;
+}
+
+#attention {
+    font-size: 35px;
+    color: red;
+    text-align: center;
+}
+
+#moneyButton {
+    background-color: rgb(64, 202, 64);
+    margin-left: 44%;
 }
